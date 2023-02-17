@@ -23,7 +23,7 @@ welcome_input=color.CYAN+color.BOLD+"Press Enter to start the AutoClicker"+color
 welcome_text=color.BOLD+color.GREEN+color.UNDERLINE+"Welcome to KAutoClicker!"+color.END
 Started_Text=color.BOLD+color.GREEN+"Started clicking..."+color.END
 close_text_windows=color.BOLD+color.RED+color.UNDERLINE+"Press Ctrl+C to stop"+color.END
-close_text_macOS=color.BOLD+color.RED+color.UNDERLINE+"Press Cmd+C to stop"+color.END
+close_text_macOS=color.BOLD+color.RED+color.UNDERLINE+"Press Ctrl+C to stop"+color.END
 
 def main():
     try:
