@@ -1,4 +1,4 @@
-<h1 style="color: blue; font-weight: bolder;"> Welcome to KAutoClicker</h1>
+> # Welcome to KAutoClicker
 KAutoClicker is a free, open source, cross-platform auto clicker for Windows and Mac OS. It is written in Python using the pyautogui. It is designed to be as simple to use as possible, with a simple Terminal interface.
 
 > ## Getting Started
